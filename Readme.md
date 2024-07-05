@@ -70,5 +70,3 @@ python gemstone_classification.py
 ## License
 
 This code is licensed under the [MIT License](LICENSE).
-
-Feel free to customize and use this code for your gemstone classification tasks. If you find it helpful, consider providing attribution to the original source.
